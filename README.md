@@ -7,7 +7,7 @@
 
 ## Installation
 <ol>
-    <li><a href="" target="_blank">Click here</a> and download files or clone this repository.</li>
+    <li><a href="https://github.com/leandrobove/instagram-post/archive/refs/heads/main.zip" target="_blank">Click here</a> and download files or clone this repository.</li>
     <li>Install all requirements running</li>
 </ol>
 
